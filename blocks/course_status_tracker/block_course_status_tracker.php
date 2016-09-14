@@ -55,6 +55,8 @@ class block_course_status_tracker extends block_base {
             return $this->content;
         }
         $this->content = new stdClass;
+        //need a default value before we can append data to it
+        $this->content->text = "";
         if ($CFG->enablecompletion) {
             // Enrolled courses.
             // $enrolled_courses=user_enrolled_courses($USER->id);
