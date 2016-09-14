@@ -1,0 +1,3 @@
+[submodule "blocks/birdidnews"]
+	path = blocks/birdidnews
+	url = https://github.com/TheGlobalATeam/moodle-blockplugn-birdidnews
