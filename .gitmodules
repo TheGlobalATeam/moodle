@@ -1,3 +1,6 @@
 [submodule "blocks/birdidnews"]
 	path = blocks/birdidnews
 	url = https://github.com/TheGlobalATeam/moodle-blockplugn-birdidnews
+[submodule "blocks/chessblock"]
+	path = blocks/chessblock
+	url = https://github.com/TheGlobalATeam/moodle-chessblock.git
