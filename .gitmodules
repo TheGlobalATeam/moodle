@@ -4,3 +4,6 @@
 [submodule "blocks/chessblock"]
 	path = blocks/chessblock
 	url = https://github.com/TheGlobalATeam/moodle-chessblock.git
+[submodule "blocks/sitdinner"]
+	path = blocks/sitdinner
+	url = https://github.com/TheGlobalATeam/moodle-sitdinner.git
