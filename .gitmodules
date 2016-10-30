@@ -7,3 +7,6 @@
 [submodule "blocks/sitdinner"]
 	path = blocks/sitdinner
 	url = https://github.com/TheGlobalATeam/moodle-sitdinner.git
+[submodule "lib/editor/atto/plugins/syntaxhighlighter"]
+	path = lib/editor/atto/plugins/syntaxhighlighter
+	url = https://github.com/TheGlobalATeam/moodle-atto_syntaxhighlighter.git
